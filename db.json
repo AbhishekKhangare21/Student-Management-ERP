@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "name": "Amar Nehare",
+      "address": "Tokyo",
+      "email": "amarnehare@gmail.com",
+      "contact": "8473829292",
+      "id": 1
+    },
+    {
+      "name": "Abhishek Khangare",
+      "email": "abhishekkhangare0673@gmail.com",
+      "contact": "9773311407",
+      "address": "wardha",
+      "id": 2
+    },
+    {
+      "name": "Rakesh Charpe",
+      "email": "rakeshcharpe@gmail.com",
+      "contact": "9558777788",
+      "address": "Pune",
+      "id": 3
+    },
+    {
+      "name": "Rohit Mehra",
+      "email": "rohitmehra@gmail.com",
+      "contact": "9839403345",
+      "address": "Mumbai",
+      "id": 4
+    },
+    {
+      "name": "Sanket Thakur",
+      "email": "sanketthakur@gmail.com",
+      "contact": "8745158874",
+      "address": "Kolkata",
+      "id": 5
+    },
+    {
+      "name": "Gopal Madavi",
+      "email": "gopalmadavi@gmail.com",
+      "contact": "9938322345",
+      "address": "Noida",
+      "id": 6
+    },
+    {
+      "name": " Sahil Rajput",
+      "email": "sahilrajput@gmail.com",
+      "contact": "9038322345",
+      "address": "Kanpur",
+      "id": 7
+    },
+    {
+      "name": " Bhushan Sharma",
+      "email": "bhushansharma@gmail.com",
+      "contact": "986522345",
+      "address": "Manali",
+      "id": 8
+    }
+  ]
+}
